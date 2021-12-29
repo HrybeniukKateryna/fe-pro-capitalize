@@ -9,7 +9,7 @@ function capitalize(string) {
 
     // Еще нашла вот такой вариант реализации, мне кажется, что он намного оптимальнее.
     //  let a = string.split(' ');
-
+    
     //    return str.replace(/(^|\s)\S/g, function(a) {return a.toUpperCase()});
 
 }
